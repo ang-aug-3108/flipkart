@@ -5,5 +5,5 @@ This file contains the DB connection logic
 i Hello i am updating this line in dev branch...
 
 >>>>>>> development
-
+Hello i am upding this line in stage branch
 
